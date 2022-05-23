@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 28 21:47:49 2021
-
-@author: selcu
-"""
-
 
 a=0
 for i in range(1,1000):
