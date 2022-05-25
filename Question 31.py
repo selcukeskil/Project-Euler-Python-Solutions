@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 17 23:30:23 2021
 
-@author: selcu
-"""
 
 wayCounter = 0
 
