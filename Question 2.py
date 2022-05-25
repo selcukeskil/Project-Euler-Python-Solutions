@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 28 21:57:14 2021
 
-@author: selcu
-"""
+
 toplam=0
 a=1
 b=1
